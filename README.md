@@ -2,9 +2,9 @@
 
 ## Installation/Deployment
 
-Go to this link: <https://github.com/skimmers/budget_tracker> and download the files. Then open the server.js file and run "npm start" in the integrated command line. 
+Go to this link: <> and download the files. Then open Developer t=Tools -> Application -> Service Workers -> Click "Offline" -> refresh the page -> and test to see if the site is working.
 
-Please check to see if the assignment goals are met. 
+Please check to see if the assignment goals are met below.
 
 # Goal
 
