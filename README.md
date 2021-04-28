@@ -2,7 +2,7 @@
 
 ## Installation/Deployment
 
-Go to this link: <https://budget-tracker-gt2021.herokuapp.com/> and download the files. Then open Developer t=Tools -> Application -> Service Workers -> Click "Offline" -> refresh the page -> and test to see if the site is working.
+Go to this link: <https://budget-tracker-gt2021.herokuapp.com/> and download the files. Then open Developer Tools -> Application -> Service Workers -> Click "Offline" -> refresh the page -> and test to see if the site is working.
 
 Please check to see if the assignment goals are met below.
 
